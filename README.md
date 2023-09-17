@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Reza and i will be sharing the useful codes for university students and generally Programming enthusiast people.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaarauchiha)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gaarauchiha/gaarauchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
