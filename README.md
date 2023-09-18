@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Reza
+#### I am a Programmer who want to help other people enjoying with my field.
+![I am a Programmer who want to help other people enjoying with my field.](https://pbs.twimg.com/profile_banners/1103089167561576451/1662486387/1080x360)
 
-I'm Reza and i will be sharing the useful codes for university students and generally Programming enthusiast people.
+I have graduated from Sharif University of Technology in Electrical Engineering field.
+
+Skills: R / Python / Matlab / HTML / CSS / Java
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaarauchiha)](https://github.com/anuraghazra/github-readme-stats)
