@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Reza
 #### I am a Programmer who want to help other people enjoying with my field.
-![I am a Programmer who want to help other people enjoying with my field.]([https://pbs.twimg.com/profile_banners/1103089167561576451/1662486387/1080x360](https://github.com/gaarauchiha/gaarauchiha/blob/main/Untitled%20(2).png))
+![I am a Programmer who want to help other people enjoying with my field.]([[https://pbs.twimg.com/profile_banners/1103089167561576451/1662486387/1080x360](https://github.com/gaarauchiha/gaarauchiha/blob/main/Untitled%20(2).png)](https://github.com/gaarauchiha/gaarauchiha/blob/main/Untitled%20(2).png))
 
 I have graduated from Sharif University of Technology in Electrical Engineering field.
 
