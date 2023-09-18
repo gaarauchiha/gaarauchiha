@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Reza
-#### I am a Programmer who want to help other people enjoying with my field.
+#### I am a Programmer and Data Analyst trying to learn new things every day.
 ![I am a Programmer and Data Analyst trying to learn new things every day.](https://github.com/gaarauchiha/gaarauchiha/blob/main/Untitled%20(2).png)
 
 I have graduated from Sharif University of Technology in Electrical Engineering field.
