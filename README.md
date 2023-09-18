@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Reza
 #### I am a Programmer who want to help other people enjoying with my field.
-![I am a Programmer who want to help other people enjoying with my field.](https://github.com/gaarauchiha/gaarauchiha/blob/main/Untitled%20(2).png)
+![I am a Programmer_Data Analyst trying to learn new things every day.](https://github.com/gaarauchiha/gaarauchiha/blob/main/Untitled%20(2).png)
 
 I have graduated from Sharif University of Technology in Electrical Engineering field.
 
@@ -24,7 +24,7 @@ Skills: R / Python / Matlab / HTML / CSS / Java
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaarauchiha)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gaarauchiha/gaarauchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
