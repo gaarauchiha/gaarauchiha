@@ -4,7 +4,7 @@
 
 I have graduated from Sharif University of Technology in Electrical Engineering field.
 
-Skills: R / Python / Matlab / HTML / CSS / Java
+Skills: R / Python / Matlab / HTML / CSS / Java / SQL
 
 - 🔭 I’m currently working on this page. 
 
