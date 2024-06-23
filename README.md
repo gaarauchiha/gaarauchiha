@@ -13,7 +13,7 @@ Skills: R / Python / Matlab / HTML / CSS / Java / SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaarauchiha)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-profile-trophy.vercel.app/?username=gaarauchiha&no-bg=true
+[https://github-profile-trophy.vercel.app/?username=gaarauchiha&no-bg=true](https://github-profile-trophy.vercel.app/?username=gaarauchiha&no-bg=true)
 
 
 
