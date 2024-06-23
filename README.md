@@ -18,7 +18,7 @@ Skills: R / Python / Matlab / HTML / CSS / Java / SQL
 
 ## 🐍 Snake Eating my GitHub Contributions
 
-!snake gif
+![snake gif](https://github.com/gaarauchiha/gaarauchiha/blob/output/github-contribution-grid-snake)
 
 
 
