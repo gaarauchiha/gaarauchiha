@@ -4,7 +4,7 @@
 
 I have graduated from Sharif University of Technology in Electrical Engineering field.
 
-Skills: R / Python / Matlab / HTML / CSS / Java / SQL
+Skills: R / Python / Matlab / HTML / CSS / Java / SQL / C++
 
 - 🔭 I’m currently working on this page. 
 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/gaarauchiha/gaarauchiha/blob/output/github-contribution-grid-snake.svg)
+
